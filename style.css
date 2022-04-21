@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.winter {
+	height: 100vh; 
+	background-color: #f5fcff;
+	background-image: url(het.png), url(deer.png), url(sled.png), url(ice.png), url(snow.png), url(fon.png), url(fon2.png);
+	background-size: auto 120px, auto 500px, auto 350px, auto 120px, auto, auto 700px, auto 700px;
+	background-repeat: no-repeat, no-repeat, no-repeat, repeat-x, repeat, no-repeat, repeat-x;
+	background-position: center bottom 380px, center bottom, right 200px bottom 10px, top, center, left bottom, right bottom;
+}
